@@ -1,0 +1,12 @@
+id: C001
+name:
+  first: "Kasun"
+  last: "Sampath"
+address: Galle
+contacts:
+  - 011-1234567
+  - 022-1234567
+  - 033-1234567
+
+# This is comment
+#In yaml to string represent we can use "" or '' or without quotes
